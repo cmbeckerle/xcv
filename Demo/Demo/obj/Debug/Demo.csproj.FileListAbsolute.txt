@@ -1,1 +1,2 @@
 C:\Users\trance1g\Source\Repos\MyStuff\Demo\Demo\bin\Debug\Demo.exe.config
+C:\Users\Administrator\Source\Repos\xcv\Demo\Demo\bin\Debug\Demo.exe.config
